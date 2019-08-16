@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<header class="post-header">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <time
+  >{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if
+  page.meta %} • {{ page.meta }}{% endif %}</time
+  >
+   <!-- call the featured-post-image.html template file -->
+   {% if page.featured-image %}{% include featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}
+</header>
+
+{{ content }}
