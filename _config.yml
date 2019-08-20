@@ -3,8 +3,8 @@ title: Tek Sample Site
 
 email: opensource at tektronix dot com
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://localhost:4000"
+baseurl: "/SampleTekPage" # the subpath of your site, e.g. /blog
+url: "https://nlynchjo.github.io"
 twitter_username: nicknotbender
 github_username:  nlynchjo
 
