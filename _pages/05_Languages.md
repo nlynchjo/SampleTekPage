@@ -1,10 +1,19 @@
 ---
-layout: subpage
+layout: default
 title: 
 permalink: /products/test/languages
 ---
 
-languages
+[Product Name]
+![teklogo](../../img/tekmonogram_tm.png)
 
-* A list item
-* Another list item
+## Programming Language
+* **[Excel VBA](./projects)**
+* **[LabView](./projects)**
+* **[MATLAB](./projects)**
+* **[Python](./projects)**
+* **[Scilab](./projects)**
+* **[Visual Studio C++](./projects)**
+* **[Visual Studio C#](./projects)**
+* **[Visual Studio VB.net](./projects)**
+* **[Test Script (Keithley)](./projects)**

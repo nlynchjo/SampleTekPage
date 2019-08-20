@@ -1,8 +1,7 @@
 ---
-
-layout: subpage
+layout: default
 title: 
-permalink: /products/test
+permalink: products/test
 ---
 
 [Product Name]

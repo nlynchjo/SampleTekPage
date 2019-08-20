@@ -5,16 +5,16 @@ permalink: products/test/sources
 ---
 
 ![powersupplies][power]  
-[Power Supplies](../test/)
+[Power Supplies](../test/languages)
 
 ![dc][dc]  
-[DC Electronic Loads](../test/)
+[DC Electronic Loads](../test/languages)
 
 ![smu][smu]  
-[Source Measurement Units](../test/)
+[Source Measurement Units](../test/languages)
 
 ![Electrochem][electro]  
-[Electrochemistry Products](../test/)
+[Electrochemistry Products](../test/languages)
 
 [power]: ../../img/powersupply.png "powersupply"
 [dc]: ../../img/dc.png "dc loads"
