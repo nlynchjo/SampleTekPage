@@ -5,7 +5,7 @@ permalink: products/test/oscilloscopes
 ---
 
 ![Bench Oscilloscopes][bench]  
-[Bench Oscilloscopes](../test/)
+[Bench Oscilloscopes](../.)
 
 
 ![Touch Screen Oscilloscopes][touch]  
