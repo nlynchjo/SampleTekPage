@@ -5,15 +5,15 @@ permalink: products/test/oscilloscopes
 ---
 
 ![Bench Oscilloscopes][bench]  
-[Bench Oscilloscopes](../languages)
+[Bench Oscilloscopes](../test/languages)
 
 
 ![Touch Screen Oscilloscopes][touch]  
-[Touch Screen Oscilloscopes](../languages)
+[Touch Screen Oscilloscopes](../test/languages)
 
 
 ![Performance real-time oscilloscopes][perf]  
-[Performance real-time Oscilloscopes](../languages)
+[Performance real-time Oscilloscopes](../test/languages)
 
 [bench]: ../../img/bench.png "Bench Scopes"
 [touch]: ../../img/touch.png "Touch Scopes"
