@@ -1,11 +1,20 @@
 ---
 
-layout: post
-title: test 
+layout: subpage
+title: 
 permalink: /products/test
 ---
 
-hurfdurf
+[Product Name]
+![teklogo](../../img/tekmonogram_tm.png)
 
-* A list item
-* Another list item
+## Programming Language
+* **[Excel VBA](./projects)**
+* **[LabView](./projects)**
+* **[MATLAB](./projects)**
+* **[Python](./projects)**
+* **[Scilab](./projects)**
+* **[Visual Studio C++](./projects)**
+* **[Visual Studio C#](./projects)**
+* **[Visual Studio VB.net](./projects)**
+* **[Test Script (Keithley)](./projects)**

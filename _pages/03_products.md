@@ -7,11 +7,9 @@ permalink: /products/
 
 List product content here.
 
-* [Oscilloscope](./test)
-* [Analyzers](./test)
-* [Signal Generators](./test)
-* [Sources and Supplies](./test)
-* [Meters](./test)
-* [Switch](./test)
-* [Getting Started](./test)
+* [Oscilloscope](./test/oscilloscopes)
+* [Analyzers](./test/analyzers)
+* [Signal Generators](./test/generators)
+* [Sources and Supplies](./test/sources)
+* [Meters](./test/meters)
 

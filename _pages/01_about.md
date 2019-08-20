@@ -6,5 +6,4 @@ permalink: /about/
 
 About content goes here.
 
-* A list item
-* Another list item
+This is a sample site demonstrating the web capabilities of Jekyll themed sites on github pages, which can be helpful for organizing and marketing individual github repositories.
